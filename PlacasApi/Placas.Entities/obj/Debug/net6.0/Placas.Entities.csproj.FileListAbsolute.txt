@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\bin\Debug\net6.0\Placas.Entities.deps.json
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\bin\Debug\net6.0\Placas.Entities.dll
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\bin\Debug\net6.0\Placas.Entities.pdb
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.dll
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\refint\Placas.Entities.dll
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\Placas.Entities.pdb
+C:\Users\USUARIO\source\repos\PlacasApi\Placas.Entities\obj\Debug\net6.0\ref\Placas.Entities.dll
